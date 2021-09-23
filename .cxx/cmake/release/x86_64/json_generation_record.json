@@ -1,0 +1,212 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: x86_64",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.18.1\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/x86_64/android_gradle_build.json due to:",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "  - /Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "keeping json folder \u0027/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/x86_64\u0027 but regenerating project",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp\n-DCMAKE_FIND_ROOT_PATH\u003d/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/prefab/x86_64/prefab\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003dx86_64\n-DANDROID_NDK\u003d/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DCMAKE_ANDROID_NDK\u003d/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/build/intermediates/cmake/release/obj/x86_64\n-DCMAKE_MAKE_PROGRAM\u003d/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-B/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/x86_64\n-GNinja\njvmArgs : \n\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp\",\n  \"buildDirectory\": \"/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/x86_64\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003d/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/prefab/x86_64/prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86_64\",\n    \"-DANDROID_NDK\\u003d/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858\",\n    \"-DANDROID_PLATFORM\\u003dandroid-16\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86_64\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/build/intermediates/cmake/release/obj/x86_64\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d16\"\n  ]\n}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at /Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/build/cmake/android-legacy.toolchain.cmake:416 (message):\\n  An old version of CMake is being used that cannot automatically detect\\n  compiler attributes.  Compiler identification is being bypassed.  Some\\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\\n  CMake\u0027s built-in compiler identification.\\nCall Stack (most recent call first):\\n  /Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/build/cmake/android.toolchain.cmake:55 (include)\\n  /Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\\n  CMakeLists.txt\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning at /Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/build/cmake/android.toolchain.cmake:55 (include)\n  /Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  CMakeLists.txt\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/build/cmake/android.toolchain.cmake\",\"/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/build/cmake/android-legacy.toolchain.cmake\",\"/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/build/cmake/platforms.cmake\",\"/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/build/cmake/compiler_id.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"/Users/guanzhen/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp\",\"type\":\"reply\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/x86_64\",\"name\":\"Project\",\"sourceDirectory\":\"/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp\",\"targets\":[{\"artifacts\":[\"/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/build/intermediates/cmake/release/obj/x86_64/libnative-lib.so\"],\"buildDirectory\":\"/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/x86_64\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O2 -DNDEBUG  -fPIC  \",\"defines\":[\"native_lib_EXPORTS\"],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"giflib/dgif_lib.c\",\"giflib/gif_err.c\",\"giflib/gifalloc.c\",\"giflib/openbsd-reallocarray.c\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security   -O2 -DNDEBUG  -fPIC  \",\"defines\":[\"native_lib_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"native-lib.cpp\"]}],\"fullName\":\"libnative-lib.so\",\"linkFlags\":\"-static-libstdc++ -Wl,--build-id\u003dsha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-ljnigraphics -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"native-lib\",\"sourceDirectory\":\"/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp\",\"sysroot\":\"/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output /Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/x86_64/build_output.txt",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file /Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/x86_64/build_command.txt",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86_64"
+  }
+]

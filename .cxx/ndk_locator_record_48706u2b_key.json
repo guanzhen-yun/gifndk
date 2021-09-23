@@ -1,0 +1,8 @@
+{
+  "ndkDirProperty": "~/Library/Android/sdk/ndk/23.0.7599858",
+  "sdkFolder": "/Users/guanzhen/Library/Android/sdk",
+  "sideBySideNdkFolderNames": [
+    "23.0.7599858",
+    "21.1.6352462"
+  ]
+}

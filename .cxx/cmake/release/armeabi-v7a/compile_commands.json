@@ -1,0 +1,31 @@
+[
+{
+  "directory": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles/native-lib.dir/giflib/dgif_lib.c.o   -c /Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/giflib/dgif_lib.c",
+  "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/giflib/dgif_lib.c"
+},
+
+{
+  "directory": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles/native-lib.dir/giflib/gif_err.c.o   -c /Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/giflib/gif_err.c",
+  "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/giflib/gif_err.c"
+},
+
+{
+  "directory": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles/native-lib.dir/giflib/gifalloc.c.o   -c /Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/giflib/gifalloc.c",
+  "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/giflib/gifalloc.c"
+},
+
+{
+  "directory": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/guanzhen/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles/native-lib.dir/giflib/openbsd-reallocarray.c.o   -c /Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/giflib/openbsd-reallocarray.c",
+  "file": "/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/src/main/cpp/giflib/openbsd-reallocarray.c"
+}
+]

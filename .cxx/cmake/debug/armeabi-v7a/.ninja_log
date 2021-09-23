@@ -1,0 +1,7 @@
+# ninja log v5
+0	15	0	clean	5e9138327e0dfe6e
+0	22	0	clean	5e9138327e0dfe6e
+1	298	1632363452	CMakeFiles/native-lib.dir/giflib/gif_err.c.o	85e6e736de679388
+2	310	1632363452	CMakeFiles/native-lib.dir/giflib/gifalloc.c.o	3ca08ad73a39b1ce
+1	328	1632363452	CMakeFiles/native-lib.dir/giflib/dgif_lib.c.o	4835ca286a6bc012
+0	515	1632363452	CMakeFiles/native-lib.dir/native-lib.cpp.o	a69c48b7fc364891
