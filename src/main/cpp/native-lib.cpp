@@ -60,8 +60,8 @@ Java_com_inke_myndkgif_GifHelper_renderFrameN(JNIEnv *env, jobject thiz, jlong g
     //渲染帧 处理像素矩阵
     int delay_time = drawFrame(gif_info, &info, (int *)pixels, index, false);
     //解锁 转为bitmap
-    return AndroidBitmap_unlockPixels(env, bitmap);
-
+    AndroidBitmap_unlockPixels(env, bitmap);
+    return delay_time;
 }
 
 #define argb(a, r, g, b) (((a) & 0xff) << 24) | (((b) & 0xff) << 16) | (((g) & 0xff) << 8) | ((r) & 0xff)

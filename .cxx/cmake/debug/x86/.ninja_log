@@ -1,3 +1,10 @@
 # ninja log v5
 0	18	0	clean	5e9138327e0dfe6e
 0	12	0	clean	5e9138327e0dfe6e
+1	66	1632526708	CMakeFiles/native-lib.dir/giflib/openbsd-reallocarray.c.o	1c23c08537b55e0e
+0	68	1632526708	CMakeFiles/native-lib.dir/giflib/gif_err.c.o	20a00f12b6c6aa94
+0	71	1632526708	CMakeFiles/native-lib.dir/giflib/gifalloc.c.o	bb7b456cf3a03762
+0	88	1632526708	CMakeFiles/native-lib.dir/giflib/dgif_lib.c.o	e4d6e334ba2cc485
+0	275	1632526709	CMakeFiles/native-lib.dir/native-lib.cpp.o	4184dcc16227d2a5
+275	334	1632526709	/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	7df54b811290b636
+1	69	1632526746	/Users/guanzhen/AndroidStudioProjects/MyNdkGif/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	7df54b811290b636
